@@ -1,0 +1,18 @@
+{
+  "name": "helloCHATGPT",
+  "version": "1.0.0",
+  "description": "Learning how to implent ChatGPT API",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SiimonStark",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "openai": "^3.2.0"
+  }
+}
